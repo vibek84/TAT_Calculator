@@ -1,2 +1,4 @@
 # TAT_Calculator
-This Website is help to u for calculating your creation of Ticket to complete within 4 HRS and 24 HRS.
+DEAR TEAM,
+
+THIS WEBSITE IS USE FOR CALCULATING 4 HRS TAT AND 24 HRS TAT AGAINST A TICKET ID.
